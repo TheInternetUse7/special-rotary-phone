@@ -1,0 +1,20 @@
+query MyAnimes($username: String, $type: MediaType) {
+  MediaListCollection(userName: $username, type: $type) {
+    lists {
+      name
+      entries {
+        media {
+          title {
+            romaji
+          }
+          coverImage {
+            large
+          }
+          siteUrl
+        }
+      }
+    }
+  }
+}
+
+# https://graphql.anilist.co
