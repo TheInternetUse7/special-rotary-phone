@@ -1,1 +1,7 @@
-# special-rotary-phone
+# My Anime / Manga
+
+<!-- ANILIST_ANIME:START -->
+<!-- ANILIST_ANIME:END -->
+
+<!-- ANILIST_MANGA:START -->
+<!-- ANILIST_MANGA:END -->
