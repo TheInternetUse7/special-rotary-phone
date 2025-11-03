@@ -5,7 +5,7 @@
 # TheInternetUser's Anime
 
 AniList User: [TheInternetUser](https://anilist.co/user/TheInternetUser/)  
-**Last Updated:** 02:03:15 GMT+0000 (Coordinated Universal Time)
+**Last Updated:** 02:01:10 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -55,7 +55,7 @@ AniList User: [TheInternetUser](https://anilist.co/user/TheInternetUser/)
 # TheInternetUser's Anime
 
 AniList User: [TheInternetUser](https://anilist.co/user/TheInternetUser/)  
-**Last Updated:** 02:03:16 GMT+0000 (Coordinated Universal Time)
+**Last Updated:** 02:01:11 GMT+0000 (Coordinated Universal Time)
 
 
 
